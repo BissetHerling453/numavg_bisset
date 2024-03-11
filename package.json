@@ -1,0 +1,26 @@
+{
+  "name": "numavg_bisset",
+  "version": "1.0.0",
+  "description": "NumAvg is a lightweight and efficient JavaScript library for numerical averaging tasks. With NumAvg, you can quickly compute the mean of numeric values, making it ideal for analyzing data sets and performing statistical calculations.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "numavg_bisset": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BissetHerling453/numavg_bisset.git"
+  },
+  "homepage": "https://github.com/BissetHerling453/numavg_bisset/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "BissetHerling453",
+  "license": "MIT"
+}
